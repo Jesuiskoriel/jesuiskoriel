@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi, I’m Jhawad 👨‍💻<br>A BTS SIO SLAM student based in Paris, France 🇫🇷.<br><br>I’m passionate about computer science, with a strong interest in software development, hardware, and video games 🎮.<br>I enjoy understanding how things work under the hood — from low-level system behavior to application logic.<br><br>💻 What I’m into<br><br>🧑‍💻 Application development (Java, JavaFX, backend logic)<br><br>🧠 Problem solving & debugging (the real kind 😅)<br><br>🖥️ Hardware (PC components, performance, optimization)<br><br>🎮 Video games & game-related tech<br><br>🐳 Discovering tools like Docker to better understand deployment and environments
+👋 About Me<br><br>Hi, I’m Koriel 👨‍💻<br>A BTS SIO SLAM student based in Paris, France 🇫🇷.<br><br>I’m passionate about computer science, with a strong interest in software development, hardware, and video games 🎮.<br>I enjoy understanding how things work under the hood — from low-level system behavior to application logic.<br><br>💻 What I’m into<br><br>🧑‍💻 Application development (Java, JavaFX, backend logic)<br><br>🧠 Problem solving & debugging (the real kind 😅)<br><br>🖥️ Hardware (PC components, performance, optimization)<br><br>🎮 Video games & game-related tech<br><br>🐳 Discovering tools like Docker to better understand deployment and environments
 
 
 ## 🌐 Socials:
@@ -12,10 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jesuiskoriel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuiskoriel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jesuiskoriel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
